@@ -1,0 +1,1 @@
+Linux ansario1-csce240_hw08-1135028 3.14.13-c9 #1 SMP Tue Aug 19 16:13:44 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux

@@ -1,0 +1,9 @@
+Main: Beginning execution
+Main: outfile 'zlog'
+Main: logfile 'zout'
+Main: DO THE BUBBLE SORT
+Main: DO THE VARIANT BUBBLE SORT
+Main: DO THE INSERTIONSORT SORT
+Main: DO THE QUICK SORT
+Main: DO THE HEAPSORT
+Main: Ending execution

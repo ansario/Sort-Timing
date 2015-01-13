@@ -1,0 +1,291 @@
+Main:  count 127
+Main:  repetition 1
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 3
+bubble(data,comps,swaps,millis)   1        127       7995       4069          7
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  1        127       7995       4069          4
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   1        127       4189       4069          4
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    1        127        982        208          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     1        127       1406        824          1
+Main:  repetition 2
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 23
+bubble(data,comps,swaps,millis)   2        127       7725       4261          1
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  2        127       7725       4261          1
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   2        127       4385       4261          1
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    2        127        828        227          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     2        127       1423        834          0
+Main:  repetition 3
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 1
+bubble(data,comps,swaps,millis)   3        127       8000       3703          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  3        127       8000       3703          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   3        127       3824       3703          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    3        127       1107        208          1
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     3        127       1432        842          1
+Main:  repetition 4
+Main:  create 127 records as file 'dataFile'
+Main:  done creating records
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 4
+bubble(data,comps,swaps,millis)   4        127       7991       4063          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  4        127       7991       4063          0
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   4        127       4185       4063          1
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    4        127        802        218          1
+Main:  read 127 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     4        127       1431        846          0
+Main:  count 511
+Main:  repetition 1
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 17
+bubble(data,comps,swaps,millis)   1        511     130152      61553          2
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  1        511     130152      61553          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   1        511      62062      61553          0
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    1        511       5032       1072          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     1        511       7825       4428          2
+Main:  repetition 2
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 28
+bubble(data,comps,swaps,millis)   2        511     129899      64868          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  2        511     129899      64868          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   2        511      65369      64868          0
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    2        511       4998       1097          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     2        511       7899       4479          2
+Main:  repetition 3
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 29
+bubble(data,comps,swaps,millis)   3        511     129870      63284          2
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  3        511     129870      63284          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   3        511      63791      63284          0
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    3        511       4846       1122          0
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     3        511       7820       4405          1
+Main:  repetition 4
+Main:  create 511 records as file 'dataFile'
+Main:  done creating records
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 27
+bubble(data,comps,swaps,millis)   4        511     129927      67033          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  4        511     129927      67033          1
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   4        511      67537      67033          0
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    4        511       4656       1110          0
+Main:  read 511 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     4        511       7758       4354          1
+Main:  count 2047
+Main:  repetition 1
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 34
+bubble(data,comps,swaps,millis)   1       2047    2093486    1061740         26
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  1       2047    2093486    1061740         22
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   1       2047    1063776    1061740          7
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    1       2047      24845       5408          1
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     1       2047      39395      21695          1
+Main:  repetition 2
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 48
+bubble(data,comps,swaps,millis)   2       2047    2092905    1073934         22
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  2       2047    2092905    1073934         22
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   2       2047    1075976    1073934          7
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    2       2047      23289       5502          0
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     2       2047      39399      21685          1
+Main:  repetition 3
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 29
+bubble(data,comps,swaps,millis)   3       2047    2093646    1073139         22
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  3       2047    2093646    1073139         20
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   3       2047    1075176    1073139          8
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    3       2047      23502       5489          1
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     3       2047      39394      21662          1
+Main:  repetition 4
+Main:  create 2047 records as file 'dataFile'
+Main:  done creating records
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the bubblesort
+early exit 6
+bubble(data,comps,swaps,millis)   4       2047    2094060    1024293         23
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the var bubblesort
+vbubble(data,comps,swaps,millis)  4       2047    2094060    1024293         21
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the insertionsort
+insert(data,comps,swaps,millis)   4       2047    1026330    1024293          7
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the quicksort
+quick(data,comps,swaps,millis)    4       2047      26749       5323          0
+Main:  read 2047 records from file 'dataFile'
+Main:  done reading records
+Main:  do the heapsort
+heap(data,comps,swaps,millis)     4       2047      39535      21786          0

@@ -1,0 +1,4 @@
+Main: Beginning execution
+Main: outfile 'zout'
+Main: logfile 'zlog'
+Utils: ERROR: string '-9740' not a number
